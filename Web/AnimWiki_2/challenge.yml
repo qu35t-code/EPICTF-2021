@@ -1,8 +1,8 @@
-name: "AnimWiki"
-description: "Explore les animés à la recherche du flag caché ! La partie 2 se débloque quand ce challenge est résolu !"
+name: "AnimWiki2"
+description: "Suite à la dernière attaque informatique que nous avons subi, j'ai renommé le fichier source afin que plus personne ne puisse le trouver et l'exploiter."
 category: "web"
 points: 100
 access_method: "http"
-internal_port: 5000
+internal_port: 4837
 difficulty: "easy"
 author: "qu35t"
