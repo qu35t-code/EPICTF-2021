@@ -1,0 +1,8 @@
+name: "pwn01"
+description: "ch01"
+category: "pwn"
+points: 100
+access_method: "tcp"
+internal_port: 6874
+difficulty: "easy"
+author: "qu35t"

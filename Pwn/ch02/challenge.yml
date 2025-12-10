@@ -1,0 +1,8 @@
+name: "pwn02"
+description: "ch02"
+category: "pwn"
+points: 100
+access_method: "tcp"
+internal_port: 6876
+difficulty: "easy"
+author: "skyf0l"

@@ -1,0 +1,8 @@
+name: "Pokemon"
+description: "J'ai trouvé un site super cool, il vend les cartes que je cherche à bas prix !"
+category: "web"
+points: 100
+access_method: "http"
+internal_port: 5000
+difficulty: "easy"
+author: "qu35t"
