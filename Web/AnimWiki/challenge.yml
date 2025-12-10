@@ -1,0 +1,8 @@
+name: "AnimWiki"
+description: "Explore les animés à la recherche du flag caché ! La partie 2 se débloque quand ce challenge est résolu !"
+category: "web"
+points: 100
+access_method: "http"
+internal_port: 5000
+difficulty: "easy"
+author: "qu35t"
